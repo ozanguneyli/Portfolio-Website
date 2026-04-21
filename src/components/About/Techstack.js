@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiPython, SiTensorflow, SiPytorch, SiNumpy, SiPandas, SiScikitlearn, SiJupyter, SiOpencv, SiKeras, SiSpacy, SiOpenai
+  SiPython, SiTensorflow, SiPytorch, SiNumpy, SiPandas, SiScikitlearn, SiJupyter, SiOpencv, SiKeras, SiSpacy
 } from "react-icons/si";
 
 function Techstack() {
